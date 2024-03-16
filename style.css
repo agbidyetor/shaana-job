@@ -507,8 +507,8 @@ main .recent-orders a {
 }
 
 /* =========== Media Queries =============== */
-@media  screen and( max-width: 768px) {
-    .container{
+@media  screen and ( max-width: 768px) {
+    .container {
         width:100%;
         grid-template-columns: 1fr;
     }
